@@ -2,7 +2,7 @@
 # The title of the website.
 title: "Lens - Elastic Designs"
 # The description of the website
-description: "A Jekyll theme for photographers."
+description: "A Jekyll theme for photographers and photo bloggers."
 # Keywords/tags for you site.
 keywords: "lens, jeykll-lens, jekyll, theme, jekyll-theme, photography, blog, photography-blog, photo-blog"
 # Your copyright message.
@@ -23,7 +23,7 @@ social:
   # Your Instagram username.
   instagram_username: ""
   # GitHub username.
-  github_username: ""
+  github_username: "ElasticDesigns"
   # Your email address.
   email: ""
 
